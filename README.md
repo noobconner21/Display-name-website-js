@@ -4,7 +4,7 @@ A simple website that takes a user's name as input and displays it at the bottom
 
 ## Demo
 
-[Live Demo](https://your-username.github.io/display-name-website/) (Replace with your GitHub Pages link if you plan to deploy it)
+[Live Demo](https://noobconner21.github.io/Display-name-website-js/)
 
 ## Features
 
